@@ -7,3 +7,6 @@ Additional features include
 - S+click+drag to select multiple elements in an area
 - Syntax highlighting to show different colors for words that are different parts of speech
 - Randomly insert words from a list to make source words more "poetic"
+
+
+......
